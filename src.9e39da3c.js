@@ -3,4 +3,4 @@ const t={days:document.querySelector('[data-value="days"]'),hours:document.query
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/timer.js");
 },{"./js/timer.js":"yCUT"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.9e39da3c.js.map
+//# sourceMappingURL=/goit-js-hw-11-timer/src.9e39da3c.js.map

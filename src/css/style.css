@@ -10,9 +10,15 @@ body {
   font-size: 36px;
   font-weight: 700;
   padding-bottom: 60px;
-  color: rgba(0, 0, 0, 0.404);
 }
 
 .field {
   margin-right: 40px;
+}
+
+.value {
+  color: rgba(0, 0, 0, 0.404);
+}
+.label {
+  color: rgba(0, 0, 0, 0.404);
 }
